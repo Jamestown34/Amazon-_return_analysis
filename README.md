@@ -1,5 +1,9 @@
 # 📦 Returns Analysis: Reducing Product Returns with Data
 
+
+<img src="https://github.com/Jamestown34/Amazon-_return_analysis/blob/main/return_photos/images.png" width="600"/>
+
+
 ## 📍 Overview
 
 In the competitive world of e-commerce, product returns can be a major challenge — costing businesses both time and money. This project explores the patterns behind product returns, identifies common reasons, and provides actionable recommendations to help reduce return rates. The analysis was conducted using a structured dataset of fashion product returns.
@@ -71,6 +75,9 @@ To better understand the reasons customers return products, return reason codes 
 
 This helped reveal key insights about product performance and areas needing attention.
 
+
+<img src="https://github.com/Jamestown34/Amazon-_return_analysis/blob/main/return_photos/Screenshot%20(72).png" width="600"/>
+
 ---
 
 ## 📈 Insights & Key Findings
@@ -79,6 +86,10 @@ This helped reveal key insights about product performance and areas needing atte
 - Several products were frequently returned as “not as described”, pointing to possible listing quality problems
 - Larger sizes (e.g., XL, XXL) had higher return frequencies, highlighting a need to review fit or size chart accuracy
 - Products tagged as “FBA” or containing special size codes showed inconsistent formatting, which may affect tracking and reporting
+
+
+
+<img src="https://github.com/Jamestown34/Amazon-_return_analysis/blob/main/return_photos/Screenshot%20(73).png" width="600"/>
 
 ---
 
@@ -117,7 +128,11 @@ Based on the analysis, the following actions are recommended:
 
 This project showcases the value of combining data cleaning, transformation, and simple analytics to solve a real-world retail problem. By understanding the "why" behind product returns, businesses can make data-informed decisions to enhance the shopping experience and reduce operational waste.
 
+
+
 It’s a strong example of how even basic data analysis — when done right — can uncover meaningful insights and drive measurable improvements.
+
+<img src="https://github.com/Jamestown34/Amazon-_return_analysis/blob/main/return_photos/Screenshot%20(75).png.png" width="600"/>
 
 ---
 
