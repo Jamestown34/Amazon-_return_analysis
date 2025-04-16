@@ -132,7 +132,7 @@ This project showcases the value of combining data cleaning, transformation, and
 
 It’s a strong example of how even basic data analysis — when done right — can uncover meaningful insights and drive measurable improvements.
 
-<img src="https://github.com/Jamestown34/Amazon-_return_analysis/blob/main/return_photos/Screenshot%20(75).png.png" width="600"/>
+<img src="https://github.com/Jamestown34/Amazon-_return_analysis/blob/main/return_photos/Screenshot%20(75).png" width="600"/>
 
 ---
 
